@@ -9,7 +9,7 @@ struct Node
     {
         element = 0;
         Next = nullptr;
-    }
+    };
 };
 
 class lista
